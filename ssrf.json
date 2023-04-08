@@ -1,0 +1,7 @@
+{
+    "url": "https://evil.com",
+    "urls": [{
+        "url": "https://evil.com",
+        "name": "Foo"
+    }]
+}
